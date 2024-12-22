@@ -1,2 +1,2 @@
 # greifarm
-Ein kleines Projekt von einem Greifarm
+Ein kleines Greifarm-Projekt
